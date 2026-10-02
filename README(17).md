@@ -1,4 +1,4 @@
-# TP NLP : Pratique du traitement automatique du langage
+# TP 1:
 
 Salut, je suis Marouane Chafiqi, étudiant en master TEE.
 
